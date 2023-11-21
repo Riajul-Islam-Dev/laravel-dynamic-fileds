@@ -1,67 +1,69 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1>👋 Hey! This is Riajul Islam. Nice to see you.</h1>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## 📢 About this project:
 
-## About Laravel
+🚩 Title: Laravel Dynamic Fields
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+📜 Description: This project is a simple Laravel 10 project with Dynamic Input Fields.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 😎 About Myself <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<div align="center">
+  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Yii Framework](https://img.shields.io/badge/Yii%20Framework-FFD43B?style=flat&logo=yii&logoColor=black)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
 
-## Learning Laravel
+</div>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+I am a experienced Full Stack Web Developer with a strong track record of solution-focused work and an unwavering commitment to web development. My career objective is underscored by my self-motivation, team-building skills, and a consistent ability to deliver the best results in this ever-evolving field.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+My educational background includes Japanese-language proficiency at Level N3. I hold a BSc in Computer Science & Engineering from East West University, Dhaka. 
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+My expertise spans both front-end and back-end technologies, encompassing HTML, CSS, Bootstrap, JavaScript, jQuery, Ajax, Vue.js, C, C++, Golang, PHP, MySQL, PostgreSQL, and frameworks such as Laravel, Yii, and ASP.NET Core MVC. Additionally, I possess skills in Internet of Things (IoT).
 
-## Laravel Sponsors
+In my spare time, I enjoy reading books and listening to music. My diverse skill set and strong commitment to the field make me a valuable addition to any web development project. **I'm open to work and employment opportunities**.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- 🌱 I'm always learning because I believe there's something new to discover every day.
+- 🌎 I'm ready for new job opportunities, whether they're far away or right at home.
+- 💬 I'm here to chat about Vue.js, PHP, Laravel, and APIs.
+- 📫 You can email me anytime at [ riajul.islam.dev@gmail.com ].
+- 🧑‍💻 I'm not just a techie – I love cooking and going on motorcycle adventures. 🍳 🏍️
 
-### Premium Partners
+## 📊 GitHub Stats
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+![Riajul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Riajul-Islam-Dev&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-## Contributing
+![Riajul Islam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Riajul-Islam-Dev&theme=darcula&hide_border=true)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Riajul Islam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riajul-Islam-Dev&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
-## Code of Conduct
+## 👀 Where to find me
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-riajul--islam--dev.github.io-2ea44f?style=flat&logo=github)](https://riajul-islam-dev.github.io/)
+[![Phone](https://img.shields.io/badge/📞_Phone-%2B8801722787007-00cc00?style=flat&amp;logo=phone)](tel:+8801722787007)
+[![E-mail](https://img.shields.io/badge/Email-riajul.islam.dev@gmail.com-00cc00?style=flat&amp;logo=gmail)](mailto:riajul.islam.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-riajul--islam--dev-2867B2?style=flat&logo=linkedin&logoColor=00AFF0)](https://www.linkedin.com/in/riajul-islam-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-riajul--islam--dev-00cc00?style=flat&logo=github)](https://github.com/Riajul-Islam-Dev)
+[![Skype](https://img.shields.io/badge/Skype-riajul--islam--dev-00a2ed?style=flat&logo=skype)](https://join.skype.com/invite/y4awZfHii9yl)
+[![Facebook](https://img.shields.io/badge/Facebook-ritewu2014-1877f2?style=flat&logo=facebook)](https://www.facebook.com/ritewu2014)
 
-## Security Vulnerabilities
+</div>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# laravel-dynamic-fileds" 
+<p align="center">Feel free to contact 💙<p/>
